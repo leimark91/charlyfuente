@@ -1,17 +1,12 @@
 # mi calculadora de porcentaje de ganancia
-#Super edita funcion 2
+#inventado por Luis Marcos Leiva.
 
-
-#super edisiones
-
-
-#cambios de todo en los programados.
 
 print ("ingrese el porciento que gana En PRESTAMOS: ")
 
 porcentaje=float (input())
 
-print ("ingrese cuanto PRESTO: ")
+print ("ingrese cuanto PRESTO:  ")
 
 numero=float(input())
 
@@ -22,4 +17,4 @@ print(f"El % es igual : ", { resultado })
 
 SUMA= resultado + numero
 
-print(f"EL RESULTADO TOTAL ES =", {SUMA })
+print(f"EL RESULTADO TOTAL ES =", { SUMA })
